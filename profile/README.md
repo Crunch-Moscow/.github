@@ -181,3 +181,91 @@ Here’s an overview of **ITE Group** (now part of the **Hyve Group**), the orga
 3. **Attend**: Network with industry leaders and explore new markets.  
 
 For specifics about **MosHome 2025** participants or sponsors, contacting ITE/Hyve directly remains the best approach, as they manage proprietary exhibitor databases. Their team can provide tailored lists or introductions based on your goals.
+
+## Blum.io Web3 Startup Seed USD 5 Million by YZI Labs
+
+### Key Points
+- Research suggests Vladimir Smerkis is a co-founder and CMO of Blum.io, a hybrid crypto exchange.
+- It seems likely Blum.io, founded in 2023, focuses on accessible crypto trading via Telegram, with features like AI tools and gamification.
+- The evidence leans toward Blum.io being based in Dubai, with recent growth in user activity, especially for its Memepad feature.
+
+---
+
+### Company Overview
+**Blum.io** is a hybrid cryptocurrency exchange that aims to simplify and democratize access to crypto trading, particularly in emerging markets. It was founded in 2023 and is headquartered in Dubai, operating as a privately held company with 11-50 employees.
+
+**Founder's Role**:  
+Vladimir Smerkis is listed as a co-founder and the Chief Marketing Officer (CMO) of Blum.io. His background in marketing and business development, including experience with global brands like Red Bull and Binance, has been crucial in shaping the company's user-friendly approach.
+
+**Mission and Focus**:  
+Blum.io targets younger, tech-savvy users, especially Gen Z, by offering a mobile-first platform integrated with Telegram. It focuses on making crypto trading accessible without the complexities of chain switching, gas fees, or lengthy transaction confirmations, emphasizing simplicity, security, and efficiency.
+
+### Key Features and Recent Developments
+Blum.io combines centralized and decentralized exchange features, supporting over 30 blockchain chains. Key offerings include:
+- Hybrid trading model: Offchain order books with onchain settlements, offering self-custody or MPC options.
+- Universal token access: Automatically lists tokens with sufficient liquidity from various exchanges.
+- Telegram integration: Gamified trading experience to enhance user engagement.
+- Simple derivatives: User-friendly perpetual futures and options, including NFT futures and pre-market tokens.
+- P2P fiat trading: Focus on local currencies for easy fiat transactions.
+- AI Co-Pilot: Assists with trading strategies and automation.
+
+Recent developments show significant growth, with the Memepad feature reaching a historic high in active users, indicating strong community adoption. Blum.io raised $5 million in a seed funding round and is part of YZi Labs' portfolio, which supports Web3 and blockchain projects.
+
+---
+
+---
+
+### Survey Note: Detailed Analysis of Blum.io Founded by Vladimir Smerkis
+
+#### Introduction
+As of April 16, 2025, Blum.io stands out as a hybrid crypto exchange founded in 2023, with Vladimir Smerkis serving as a co-founder and Chief Marketing Officer (CMO). This report provides a comprehensive overview of Blum.io, detailing its founding, operations, key features, and recent developments, with a focus on its founder’s role and the company’s strategic positioning in the cryptocurrency market.
+
+#### Founding and Leadership
+Blum.io was established in 2023, with its headquarters located in Dubai. The company operates as a privately held entity within the technology, information, and internet industry, employing between 11 and 50 staff members. The founding team includes:
+- **Vladimir Smerkis**: Co-Founder and CMO, known for his extensive experience in marketing and business development, having worked with global brands such as Red Bull and Binance. His LinkedIn profile ([Vladimir Smerkis LinkedIn](https://www.linkedin.com/in/smerkis/)) highlights his strategic role in driving Blum.io’s market presence.
+- **Gleb Kostarev**: Co-Founder and CEO, a former VP at Binance with expertise in operational strategy and global market development, particularly in Asia, Eastern Europe, CIS, Turkey, and ANZ.
+- **Vlad Maslyakov**: Co-Founder and CTO, bringing over 24 years of experience in finance, high-frequency trading, and blockchain technology, previously serving as CTO at Exante.
+
+The leadership team’s diverse backgrounds in finance, marketing, and technology have been instrumental in shaping Blum.io’s innovative approach to crypto trading.
+
+#### Company Operations and Mission
+Blum.io’s mission is to democratize access to cryptocurrency trading, focusing on emerging markets where local crypto products are often underdeveloped. The platform targets Gen Z investors, who, according to industry trends, hold cryptocurrency as their most common investment, driven by technological change and social media influence. Blum.io achieves this through:
+- A hybrid model that combines centralized exchange (CEX) and decentralized exchange (DEX) functionalities, supporting over 30 blockchain chains.
+- Integration with Telegram, offering a mobile-first trading experience with gamified mechanics to enhance user engagement and accessibility.
+
+The company’s strategic focus is on simplicity, security, and efficiency, aiming to eliminate barriers such as chain switching, native token gas fees, and endless transaction confirmations. This is reflected in its tagline: “Trade without chain switching, native token gas fees, or endless transaction confirmations” ([Blum.io Official Website](https://www.blum.io/)).
+
+#### Key Features and Services
+Blum.io offers a range of features designed to cater to both novice and experienced traders:
+- **Hybrid Trading Model**: Utilizes offchain order books for speed and onchain settlements for security, providing options for self-custody or Multi-Party Computation (MPC) wallets.
+- **Universal Token Access**: Automatically lists tokens with sufficient liquidity from various exchanges and protocols, ensuring users have access to a broad range of assets without needing multiple platforms.
+- **Telegram Integration**: Leverages Telegram’s mini-app functionality for a seamless, gamified trading experience, appealing to younger, tech-savvy users.
+- **Simple Derivatives**: Offers user-friendly perpetual futures and options, including futures on non-fungible tokens (NFTs) and pre-market tokens, simplifying complex trading instruments.
+- **P2P Fiat Trading**: Focuses on local currencies and merchant integrations, facilitating easy fiat-to-crypto transactions, particularly in emerging markets.
+- **AI Co-Pilot**: An advanced feature that assists users in creating trading strategies, launching tokens, and earning through automated, self-learning systems.
+
+These features position Blum.io as a versatile platform that bridges the gap between traditional finance and decentralized technologies, aligning with its vision to become the go-to platform for seamless, secure, and efficient crypto trading.
+
+#### Recent Developments and Market Presence
+Recent data indicates significant growth for Blum.io, particularly with its Memepad feature, which has reached a historic high in active users. This was reported on Gate.io, noting increased engagement within the Telegram-based trading community ([Blum Price Chart on Gate.io](https://www.gate.io/price/blum-blum)). The growth underscores Blum.io’s appeal, especially among its target demographic of Gen Z and crypto-curious millennials, with over 90 million users reported on its LinkedIn profile ([Blum LinkedIn Page](https://www.linkedin.com/company/blumcrypto)).
+
+Blum.io has also secured funding, including a $5 million seed round, with investors including YZi Labs, a venture capital firm focused on Web3, AI, and blockchain infrastructure ([Blum Funding Details on Crunchbase](https://www.crunchbase.com/organization/blum-b1c3/funding_rounds/funding_rounds_list)). Additionally, the company participated in the Binance MVB Season 7 Accelerator Program, validating its potential and enhancing its platform security and performance ([Blum Project Overview on RootData](https://www.rootdata.com/Projects/detail/Blum?k=MTEzODk%253D)).
+
+The platform’s token, BLUM, is part of its ecosystem, though it is currently unavailable for trading on major exchanges listed on CoinGecko, with market data expected to be updated soon ([Blum Price on CoinGecko](https://www.coingecko.com/en/coins/blum)). This indicates ongoing development and potential for future listings, further expanding its market presence.
+
+#### Strategic Positioning and Community Engagement
+Blum.io’s strategic positioning leverages gamification and social trading to attract a younger audience, aligning with trends where 55% of Gen Z investors currently invest in crypto. Its integration with Telegram and focus on localized P2P trading cater to emerging markets, addressing the need for accessible financial tools in regions with underdeveloped crypto infrastructure. The company’s community engagement is evident from its 5.36 million followers on X ([Blum X Profile](https://x.com/Blumcrypto)), reflecting a vibrant and growing user base.
+
+#### Conclusion
+Blum.io, co-founded by Vladimir Smerkis, is a forward-thinking hybrid crypto exchange based in Dubai, launched in 2023. With its innovative features, including universal token access, Telegram integration, and AI-driven tools, it has achieved significant growth, particularly with its Memepad feature. Supported by a $5 million seed funding round and backed by YZi Labs, Blum.io is well-positioned to expand its reach and influence in the crypto trading ecosystem, driven by the strategic leadership of its founders, including Vladimir Smerkis’s marketing expertise.
+
+#### Key Citations
+- [Blum.io Official Website](https://www.blum.io/)
+- [Blum Team on CryptoRank.io](https://cryptorank.io/price/blum/team)
+- [Blum LinkedIn Page](https://www.linkedin.com/company/blumcrypto)
+- [Blum Funding Details on Crunchbase](https://www.crunchbase.com/organization/blum-b1c3/funding_rounds/funding_rounds_list)
+- [Blum Price Chart on Gate.io](https://www.gate.io/price/blum-blum)
+- [Blum Project Overview on RootData](https://www.rootdata.com/Projects/detail/Blum?k=MTEzODk%253D)
+- [Blum Price on CoinGecko](https://www.coingecko.com/en/coins/blum)
+- [Vladimir Smerkis LinkedIn](https://www.linkedin.com/in/smerkis/)
+- [Blum X Profile](https://x.com/Blumcrypto)
