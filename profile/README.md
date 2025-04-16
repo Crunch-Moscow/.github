@@ -84,3 +84,100 @@ The Russian Union of Exhibitions and Fairs (RUEF) is a vital organization in the
 | **Investors** | Private Investors | Individuals and private equity firms investing in RUEF projects |
 
 This table provides a concise overview of the key people, attendees, speakers, and investors associated with the Russian Union of Exhibitions and Fairs (RUEF).
+
+## MosHome 2025 
+
+The search results do not provide a detailed or comprehensive list of participants and sponsors for the **MosHome 2025** exhibition. However, based on the available information, here is a structured summary of key details related to participants and sponsorship opportunities:
+
+---
+
+### **Participants at MosHome 2025**
+1. **Exhibitors**  
+   - Over **700+ exhibitors** from various sectors, including home goods, garden products, sports equipment, leisure items, and interior décor .  
+   - Focus on international and Russian manufacturers aiming to expand their market reach in Eurasia .  
+
+2. **Visitor Demographics**  
+   - **12,200+ visitors** in 2025, including wholesalers, retailers, marketplace representatives, and corporate decision-makers .  
+   - Attendees from over **47 countries**, with strong representation from Russia and neighboring regions .  
+
+3. **Specialized Sections**  
+   - **MosFit 2025**: A dedicated section for fitness and sports products, attracting 1,000+ buyers and generating significant purchase agreements .  
+   - **Chains’ Wholesale Center**: Over 1,000 purchasing sessions and 796 preliminary agreements worth $160+ million USD in previous editions .  
+
+---
+
+### **Sponsorship Opportunities**  
+While no specific sponsors are listed for MosHome 2025, the event offers tailored advertising and sponsorship packages:  
+- **Deadline**: Sponsorship orders must be finalized by **February 23, 2025** .  
+- **Benefits**: Enhanced brand visibility, access to decision-makers, and opportunities to showcase products in high-traffic zones like the Demo Zone .  
+- **Custom Packages**: The organizers provide individualized sponsorship plans for companies with unique goals .  
+
+---
+
+### **How to Obtain Detailed Lists**  
+1. **Contact Organizers**  
+   - Reach out to **Anastasia Kirichenko** (Email: `anastasia.kirichenko@ite.group`) for sponsorship inquiries .  
+   - Visit the [official website](https://moshome-expo.com/en/) or contact **Dmitry Zavgorodniy** of the ITE Group (Phone: +971044572926) for participant details .  
+
+2. **Event Brochures**  
+   - Download promotional materials from the MosHome website for sector-specific exhibitor insights .  
+
+---
+
+### **Related Events**  
+- **MosBuild 2025**: Co-located with MosHome, this event features **1,300+ exhibitors** and **80,000+ visitors** across 17 sectors, including building materials and interior design .  
+
+For a complete list of participants or sponsors, direct communication with the organizers is recommended, as the search results do not disclose specific company names.
+
+Here’s an overview of **ITE Group** (now part of the **Hyve Group**), the organization behind events like **MosHome** and **MosBuild**, based on their public profile and industry insights:
+
+---
+
+### **About ITE Group**  
+**ITE Group** (now rebranded under **Hyve Group plc**) is a **global leader in organizing B2B exhibitions and conferences**. Founded in 1991, it specializes in creating platforms for businesses to connect with emerging markets, particularly in **Russia, Central Asia, the Middle East, Africa, and Southeast Asia**. Key highlights:  
+
+1. **Global Reach**  
+   - Operates **50+ international exhibitions** annually across diverse industries (construction, retail, hospitality, energy, etc.).  
+   - Strong focus on **high-growth markets**, helping brands expand into regions like Eurasia.  
+
+2. **Flagship Events**  
+   - **MosBuild**: Russia’s largest construction and interior design exhibition (1,300+ exhibitors, 80,000+ visitors).  
+   - **MosHome**: Focused on home goods, gardening, and leisure products.  
+   - Other major events: **WorldFood Kazakhstan**, **Caucasus Build**, and **UzBuild** (Central Asia’s construction expo).  
+
+3. **Hyve Group Acquisition**  
+   - Merged with Hyve Group in 2020 to enhance its global portfolio and digital capabilities.  
+   - Combines ITE’s regional expertise with Hyve’s innovation in hybrid (in-person + virtual) events.  
+
+---
+
+### **Core Services**  
+- **Exhibition Organization**: Large-scale trade shows for networking, sales, and market entry.  
+- **Sponsorship Solutions**: Custom packages for brand promotion and lead generation.  
+- **Market Research**: Insights into emerging markets to guide exhibitors’ strategies.  
+
+---
+
+### **Why Partner with ITE (Hyve Group)?**  
+- **High ROI**: Events like MosHome attract thousands of qualified buyers and decision-makers.  
+- **Sector Expertise**: Deep knowledge of regional markets (e.g., Russia’s home goods sector).  
+- **Government Backing**: Many events are supported by local ministries and trade associations.  
+
+---
+
+### **Contact ITE Group (Hyve)**  
+- **Website**: [https://ite.group/en/about/](https://ite.group/en/about/)  
+- **Global HQ**: London, UK. Regional offices in Moscow, Dubai, Istanbul, and Southeast Asia.  
+- **Key Contact for MosHome**:  
+  - **Dmitry Zavgorodniy** (International Sales Director)  
+    - Email: `dmitry.zavgorodniy@hyve.group`  
+    - Phone: +971 044 572 926  
+
+---
+
+### **How to Engage**  
+1. **Exhibit**: Showcase products/services at their events.  
+2. **Sponsor**: Gain visibility through branded zones, seminars, or digital campaigns.  
+3. **Attend**: Network with industry leaders and explore new markets.  
+
+For specifics about **MosHome 2025** participants or sponsors, contacting ITE/Hyve directly remains the best approach, as they manage proprietary exhibitor databases. Their team can provide tailored lists or introductions based on your goals.
